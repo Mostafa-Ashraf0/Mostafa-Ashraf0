@@ -6,7 +6,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mostafa-Ashraf0&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mostafa-ashraf0" alt="mostafa-ashraf0" /></a> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mostafa-Ashraf0" alt="Mostafa-Ashraf0" />
+</a> </p>
 
 - 🔭 I’m currently working on **lugx gaming Website**
 
