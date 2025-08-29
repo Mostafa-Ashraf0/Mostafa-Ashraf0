@@ -5,7 +5,7 @@
   <img alt="Coding" src="https://camo.githubusercontent.com/1718a1780db6d1240b32dfc27d9d9cbf60c748e407fbf622caafedead2ef7be5/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f4752564d376278646e3779454657544e36692f67697068792e6769663f6369643d656366303565343777766e39676573316a3079757935697961376f723274773871386774347263643865707465726a64267269643d67697068792e6769662663743d67" data-canonical-src="https://media1.giphy.com/media/GRVM7bxdn7yEFWTN6i/giphy.gif?cid=ecf05e47wvn9ges1j0yuy5iya7or2tw8q8gt4rcd8epterjd&amp;rid=giphy.gif&amp;ct=g" style="width:200px; display: inline-block;" data-target="animated-image.originalImage">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafa-ashraf0&label=Profile%20views&color=0e75b6&style=flat" alt="mostafaashra" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=mostafa-ashraf0&label=Profile%20views&color=0e75b6&style=flat](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)" alt="mostafaashra" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mostafa-ashraf0" alt="mostafa-ashraf0" /></a> </p>
 
