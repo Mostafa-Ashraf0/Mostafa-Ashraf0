@@ -10,9 +10,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mostafa-Ashraf0" alt="Mostafa-Ashraf0" />
 </a> </p>
 
-- 🔭 I’m currently working on **School manamgement system and LinkedIn clone App**
+- 🔭 I’m currently working on **[ School manamgement system and LinkedIn clone App ]**
 
-- 🌱 I’m currently learning **Reducx, Next.js, Shopify development**
+- 🌱 I’m currently learning **[ Redux, Next.js, Shopify development ]**
 
 - 📫 How to reach me **mostafaashrof158@gmail.com**
 
