@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mostafa Ashraf</h1>
-<h3 align="center">A Software Engineer [Frontend Developer / WordPress Developer] || Data Analyst</h3>
+<h3 align="center">A Software Engineer [Frontend Developer / WordPress Developer] || Data Analyst</h3> 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="150" height="150" />
   <img alt="Coding" src="https://camo.githubusercontent.com/1718a1780db6d1240b32dfc27d9d9cbf60c748e407fbf622caafedead2ef7be5/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f4752564d376278646e3779454657544e36692f67697068792e6769663f6369643d656366303565343777766e39676573316a3079757935697961376f723274773871386774347263643865707465726a64267269643d67697068792e6769662663743d67" data-canonical-src="https://media1.giphy.com/media/GRVM7bxdn7yEFWTN6i/giphy.gif?cid=ecf05e47wvn9ges1j0yuy5iya7or2tw8q8gt4rcd8epterjd&amp;rid=giphy.gif&amp;ct=g" style="width:200px; display: inline-block;" data-target="animated-image.originalImage">
