@@ -13,7 +13,7 @@
 ## 🚀 About Me
 
 - 🔭 I’m currently improving my problem solving and data structures & algorithms skills.
-- 🌱 I’m currently learning **backend using Node.js**
+- 🌱 I’m currently learning **backend using java**
 - 💬 Interested in **FullStack Development, Problem Solving, and Building Real Projects**
 - 📫 How to reach me: **mostafaashrof158@gmail.com**
 
